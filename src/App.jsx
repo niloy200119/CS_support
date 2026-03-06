@@ -1,7 +1,11 @@
+import Navbar from './components/Navbar';
+import Banner from './components/Banner';
+
 function App() {
   return (
     <div className="min-h-screen bg-gray-100 font-inter">
-      <h1 className="text-3xl font-bold text-center py-10">CS — Ticket System</h1>
+      <Navbar />
+      <Banner inProgressCount={0} resolvedCount={0} />
     </div>
   );
 }
