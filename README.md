@@ -2,7 +2,7 @@
 
 A React-based customer support ticket management system. Built with React, Vite, and Tailwind CSS.
 
-Live: [Vercel Deployment](#)
+Live: [https://cs-ticket-system-ruby.vercel.app](https://cs-ticket-system-ruby.vercel.app)
 
 ---
 
